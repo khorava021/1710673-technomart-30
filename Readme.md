@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Хорава Родери](https://up.htmlacademy.ru/htmlcss/30/user/1710673).
-* Наставник: [Дмитрий Мирошниченко] (https://htmlacademy.ru/profile/id591417).
+* Наставник: [Дмитрий Мирошниченко](https://htmlacademy.ru/profile/id591417).
 
 ---
 
